@@ -1,0 +1,42 @@
+{
+  "company": {
+    "name": "Supraja Technologies",
+    "website": "www.suprajatechnologies.com",
+    "address": "Hyderabad, Telangana, India",
+    "phone": "+91-XXXXXXXXXX",
+    "email": "info@suprajatechnologies.com",
+    "about": "Supraja Technologies is a cutting-edge cybersecurity and software development company specializing in network security tools, ethical hacking solutions, and enterprise-grade security applications. We are committed to building innovative products that protect networks and digital assets."
+  },
+  "developers": [
+    {
+      "name": "Shaik Aneesa Begum",
+      "contact number": "8639588725",
+      "email": "shaikaneesabegum64@gmail.com"
+    },
+    {
+      "name": "Tadepalli Soma Sundar",
+      "contact number": "7386152349",
+      "email": "somasundartadepalli@gmail.com"
+    },
+    {
+      "name": "Namburi Naga Venkata Likhitha Sri",
+      "contact number": "8985084722",
+      "email": "nvlikithasrinamburi@gmail.com"
+    },
+    {
+      "name": "Pulikonda Keshav Shanmukh",
+      "contact number": "9515037980",
+      "email": "keshavshanmukh25@gmail.com"
+    },
+    {
+      "name": "Tovi Bharat Venkata Sai Raj ",
+      "contact number": "9391079955",
+      "email": "tovibharatvenkatasairaj@gmail.com"
+    },
+    {
+      "name": "Madugula Sri Lakshmi",
+      "contact number": "9392602949",
+      "email": "srilumadugula@gmail.com"
+    }
+  ]
+}
